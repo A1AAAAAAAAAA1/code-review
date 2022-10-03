@@ -8,7 +8,7 @@
 
 > **php弱类型变量**是指,在声明一个变量时,我们不需要指明它保存的数据类型。
 >
-> **php数据类型**：String（[字符串](https://so.csdn.net/so/search?q=字符串&spm=1001.2101.3001.7020)）, Integer（整型）, Float（浮点型）, Boolean（布尔型）, Array（数组）, Object（对象）, NULL（空值）。
+> **php数据类型**：String（字符串）, Integer（整型）, Float（浮点型）, Boolean（布尔型）, Array（数组）, Object（对象）, NULL（空值）。
 >
 > php虽然属于弱语言，但是里面也有一些强语言类型相关的强制定义数据类型的方法
 >
